@@ -15,4 +15,4 @@ mysqlclient = "*"
 python_version = "3.8"
 
 [scripts]
-service = "python -m aiohttp_skeleton.main -v"
+server = "python -m aiohttp_skeleton.main -v"
